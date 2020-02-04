@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiikaebo.red.vision/sitemap.xml
